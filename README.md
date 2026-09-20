@@ -106,7 +106,8 @@ It then explains **why** that method fits the situation, and takes you directly 
 
 ## 📸 Screenshots
 
-*(Add 3–4 screenshots here: the Decision Router with a recommendation, a result card with the AI Insights chat open, the PSM covariate balance table, and the CausalImpact chart.)*
+<img width="1915" height="815" alt="image" src="https://github.com/user-attachments/assets/7afb8d40-820c-43f9-b7bf-6df8b9b478ca" />
+
 
 ---
 
