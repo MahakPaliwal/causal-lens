@@ -107,9 +107,13 @@ It then explains **why** that method fits the situation, and takes you directly 
 ## 📸 Screenshots
 
 <img width="1915" height="815" alt="image" src="https://github.com/user-attachments/assets/7afb8d40-820c-43f9-b7bf-6df8b9b478ca" />
+
 <img width="1916" height="836" alt="image" src="https://github.com/user-attachments/assets/761330bb-b87a-4a05-8f6c-5eaf4e5d5686" />
+
 <img width="1437" height="828" alt="image" src="https://github.com/user-attachments/assets/aaca3243-aac0-49ab-a41a-a2ca98d85b6c" />
+
 <img width="1438" height="817" alt="image" src="https://github.com/user-attachments/assets/d054bbb2-6d28-42b0-8a85-685f62770731" />
+
 <img width="1342" height="816" alt="image" src="https://github.com/user-attachments/assets/13f56ce5-8c96-49da-96d0-fc0438f134fe" />
 
 
